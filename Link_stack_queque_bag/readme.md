@@ -1,1 +1,1 @@
-build stack, queue, bag
+build stack, queue, bag using LinkList or doubleLinkList.
